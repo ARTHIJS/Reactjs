@@ -18,3 +18,17 @@ This project demonstrates the use of **functional** and **class components**, mo
 
 ## 🗂️ Project Structure
 
+## ⚙️ Features
+- Functional component: Home.js  
+- Class component: HomeClass.js  
+- CSS styling  
+- Test setup ready
+- Easy to run and modify
+
+## 🚀 How to Run
+git clone https://github.com/ARTHIJS/Reactjs.git
+cd Reactjs
+npm install
+npm start
+
+
